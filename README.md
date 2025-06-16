@@ -15,9 +15,9 @@
 ---
 
 ### 🌟 Featured Projects  
-- 🔍 [**PricePulse**](https://github.com/adiyaan010205/pricepulse) – Price tracker with a FastAPI backend and React frontend  
+- 🔍 [**PricePulse**](https://github.com/adiyaan010205/Price-Pulse) – Price tracker with a FastAPI backend and React frontend  
 - 🎭 **Moodify** – Music recommendation system based on facial recognition  
-- 💬 **E-commerce Chatbot** – AI-powered chatbot for seamless product inquiries and customer support  
+- 💬 [**E-commerce Chatbot**](https://github.com/adiyaan010205/E-Commerce-Chatbot) – AI-powered chatbot for seamless product inquiries and customer support  
 - 📄 **Smart Resume Builder** – Create and download resumes using React + jsPDF  
 
 ---
