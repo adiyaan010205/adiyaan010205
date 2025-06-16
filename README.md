@@ -30,7 +30,7 @@ I love solving real-world problems through code. Whether it’s building intelli
 ### 🌐 Let's Connect!  
 - [LinkedIn](https://www.linkedin.com/in/rmohammedadiyaan)  
 - [GitHub](https://github.com/adiyaan010205)  
-- 📫 Email: `adiyaan03@gmail.com`  
+- 📫 Email: `adiyaan126@gmail.com`  
 
 ---
 
