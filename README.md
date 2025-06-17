@@ -18,7 +18,7 @@
 - 🔍 [**PricePulse**](https://github.com/adiyaan010205/Price-Pulse) – Price tracker with a FastAPI backend and React frontend  
 - 🎭 **Moodify** – Music recommendation system based on facial recognition  
 - 💬 [**E-commerce Chatbot**](https://github.com/adiyaan010205/E-Commerce-Chatbot) – AI-powered chatbot for seamless product inquiries and customer support  
-- 📄 **Smart Resume Builder** – Create and download resumes using React + jsPDF  
+- 📄 [**Smart Resume Builder**](https://github.com/adiyaan010205/AI-Resume-Builder) – Create and download resumes using React + Vite + jsPDF  
 
 ---
 
